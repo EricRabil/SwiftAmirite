@@ -94,18 +94,18 @@
                             <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="3C4-i6-3Rc">
                                 <rect key="frame" x="31" y="70" width="408" height="369"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                                <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="justified" title="Hey Sexy DADDDDDDY" id="atF-FM-sod">
+                                <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="center" title="Hello! Welcome to my application" id="atF-FM-sod">
                                     <font key="font" size="46" name="ComicSansMS-Bold"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" red="0.80000001190000003" green="1" blue="0.40000000600000002" alpha="0.0" colorSpace="calibratedRGB"/>
                                 </textFieldCell>
                             </textField>
                             <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="PdT-wF-q3R">
-                                <rect key="frame" x="33" y="34" width="404" height="32"/>
+                                <rect key="frame" x="-6" y="34" width="492" height="32"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES"/>
-                                <buttonCell key="cell" type="push" title="Do LSD" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="qul-PY-ITN">
+                                <buttonCell key="cell" type="push" title="Click to immerse yourself into my drugs" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="qul-PY-ITN">
                                     <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
-                                    <font key="font" metaFont="system"/>
+                                    <font key="font" metaFont="system" size="24"/>
                                 </buttonCell>
                                 <connections>
                                     <action selector="click1:" target="XfG-lQ-9wD" id="NJ7-Xn-F05"/>
