@@ -505,6 +505,7 @@
 				1D9AACB41E59EB9C00500831 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1D9AACB51E59EB9C00500831 /* Build configuration list for PBXNativeTarget "daddyTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +514,7 @@
 				1D9AACB71E59EB9C00500831 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1D9AACB81E59EB9C00500831 /* Build configuration list for PBXNativeTarget "daddyUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +523,7 @@
 				1D9AACBA1E59EB9C00500831 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

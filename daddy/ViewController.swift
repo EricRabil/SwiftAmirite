@@ -62,6 +62,8 @@ class ViewController: NSViewController {
             NSSound(named: sounds[Int(arc4random_uniform(UInt32(sounds.count)))])?.play()
             //Random brightness
             setBrightnessLevel(level: Float(drand48() / drand48()))
+            //Random title
+            self.view.window?.title = messages[Int(arc4random_uniform(UInt32(messages.count)))]
         }
     }
     
